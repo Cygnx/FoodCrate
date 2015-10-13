@@ -9,6 +9,9 @@ This repository hosts the web app component of Food Crate.
 http://foodcrate.meteor.com
 
 Basic Roadmap:
+
 1) Finish web app with basic functionality
+
 2) Start on mobile. Pref using Ionic + asteroid ddp 
+
 3) Expand functionality.
