@@ -8,6 +8,7 @@ This repository hosts the web app component of Food Crate.
 ![My image](http://i.imgur.com/UU3GV3r.png)
 ![My image](http://i.imgur.com/C5ZCH7K.png)
 
+(Depricated due to Meteor free host shutting down)
 http://foodcrate.meteor.com
 
 Basic Roadmap:
